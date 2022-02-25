@@ -1,1 +1,3 @@
 Here is a demo about using beautiful soup and dataframe to scrap and analyse data from websites
+in this Demo we are reading a link to amazone and analyzing the different prices of books and ranking hte books according to thier genres and prices.
+this kind of technology can e used when you want to have a system that reads data from the web and analyses it with minimal human effort.
